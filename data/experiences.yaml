@@ -1,20 +1,20 @@
 # Your experiences
 experiences:
   - designation: SDN Burujul Wetan 1
-    start: Jul 2006
-    end: Jul 2011
+    start: Jul 2007
+    end: Jul 2013
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
 
   - designation: SMPN 1 Jatiwangi
-    start: Jul 2011
-    end: Jul 2016
+    start: Jul 2013
+    end: Jul 2015
     responsibilities:
       - boy scout
 
   - designation: SMAN 1 Jatiwangi
-    start: Jul 2016
+    start: Jul 2015
     end: Jul 2018
     responsibilities:
       - Sijatpala - Siswa Jatiwangi Pecinta Alam.
