@@ -1,0 +1,27 @@
+# Your experiences
+experiences:
+  - designation: SDN Burujul Wetan 1
+    start: Jul 2006
+    end: Jul 2011
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+
+  - designation: SMPN 1 Jatiwangi
+    start: Jul 2011
+    end: Jul 2016
+    responsibilities:
+      - boy scout
+
+  - designation: SMAN 1 Jatiwangi
+    start: Jul 2016
+    end: Jul 2018
+    responsibilities:
+      - Sijatpala - Siswa Jatiwangi Pecinta Alam.
+      - boy scout
+  
+  - designation: Telkom University
+    start: Aug 2018
+    responsibilities:
+      - CCI, GnG Division, 2018-2019
+      - Insight, 2018-2019

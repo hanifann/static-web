@@ -1,0 +1,9 @@
+{{ $authorName:= "John Doe"}}
+{{ if eq (printf "%T" .Params.author ) "maps.Params" }}
+    {{ with .Params.author }}
+        {{ if .name }}
+        {{ $authorName = .name }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+{{ return $authorName }}

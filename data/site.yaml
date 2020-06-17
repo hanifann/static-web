@@ -1,0 +1,28 @@
+# background image of the landing page
+background: "images/background.jpg"
+
+# some information about you
+author:
+  name: "Jane asdasd"
+  image: "images/avatar.png"
+  # give your some contact information. they will be used in the footer
+  contactInfo:
+    email: "hanifan@student.telkomuniversity.ac.id"
+    phone: "081324145108"
+  # a summary of what you do
+  summary:
+  - I am a Student at Telkom University
+  - I am a programmer
+  - I love linux and do something new
+
+# Menus of the home page
+menus:
+- name: Home
+  url: "#home"
+  weight: 1
+- name: About
+  url: "#about"
+  weight: 2
+- name: Education
+  url: "#skills"
+  weight: 3

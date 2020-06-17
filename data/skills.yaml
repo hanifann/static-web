@@ -1,0 +1,34 @@
+# Your Skills.
+# Give a summary of you each skill in summary section.
+skills:
+- name: Java
+  icon: "images/skills/java.png"
+  summary: "Capable of making simple java desktop application using swing, make CRUD in java and make simple android app"
+
+- name: Native PHP
+  icon: "images/skills/php.png"
+  summary: "Using as main language for Web development. Capable of writing CRUD for any website."
+
+- name: English Languange
+  icon: "images/skills/english-language.png"
+  summary: "Able to read, write, listen, conversation and speak but not too fluently"
+
+- name: Kotlin
+  icon: "images/skills/kotlin-1.svg"
+  summary: "Able to make retrieve data from api and display it on screen."
+
+- name: Linux
+  icon: "images/skills/linux.png"
+  summary: "Using as main operating system. Know basic and moderete command and linux filesystem. also able to setup and configure desktop environtment and windows manager."
+
+- name: Git
+  icon: "images/skills/git.png"
+  summary: "Experienced with git based development. Mostly, use Github."
+
+- name: Flutter
+  icon: "images/skills/flutter.svg"
+  summary: "Know basic flutter programming. know how to retrieve data form api. currently learning this programming language"
+
+- name: Static Websie
+  icon: "images/skills/hugo.png"
+  summary: "able to configure and make static website using hugo and hosting it in netlify"

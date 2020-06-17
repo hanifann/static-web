@@ -1,0 +1,9 @@
+{{ $authorImage:= "/assets/images/default-avatar.png"}}
+{{ if eq (printf "%T" .Params.author ) "maps.Params" }}
+    {{ with .Params.author }}
+        {{ if .image }}
+            {{ $authorImage = .image }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+{{ return $authorImage }}
