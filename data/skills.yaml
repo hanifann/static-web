@@ -5,9 +5,9 @@ skills:
   icon: "images/skills/java.png"
   summary: "Capable of making simple java desktop application using swing, make CRUD in java and make simple android app"
 
-- name: Native PHP
+- name: PHP
   icon: "images/skills/php.png"
-  summary: "Using as main language for Web development. Capable of writing CRUD for any website."
+  summary: "Using as main language for Web development. Capable of writing CRUD for any website and able to configure and use ci (CodeIgniter) framework."
 
 - name: English Languange
   icon: "images/skills/english-language.png"
