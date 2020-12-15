@@ -15,7 +15,7 @@ skills:
 
 - name: Kotlin
   icon: "images/skills/kotlin-1.svg"
-  summary: "Able to make retrieve data from api and display it on screen."
+  summary: "Able to make retrieve data from api, use firebase as online storage and use FCM."
 
 - name: Linux
   icon: "images/skills/linux.png"
@@ -27,7 +27,7 @@ skills:
 
 - name: Flutter
   icon: "images/skills/flutter.svg"
-  summary: "Know basic flutter programming. know how to retrieve data form api. currently learning this programming language"
+  summary: "Know moderete flutter programming. capable to processing data from firestore, sqflite, and retrieve data from api  currently learning this programming language"
 
 - name: Static Websie
   icon: "images/skills/hugo.png"
