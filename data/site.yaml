@@ -23,9 +23,9 @@ menus:
 - name: About
   url: "#about"
   weight: 2
-- name: Education
+- name: Skills
   url: "#skills"
   weight: 3
-  - name: Education
+- name: Education
   url: "#education"
   weight: 4
